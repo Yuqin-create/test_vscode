@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{hyperref}
+
+\title{Research Notes}
+\author{Yuqin Ao}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Today's Work}
+- Read about gradient descent and strong convexity.
+- Summarized key lemmas.
+
+\section{Key Formula}
+If $f$ is $L$-smooth,
+\[
+f(y) \le f(x) + \nabla f(x)^\top (y-x) + \frac{L}{2}\|y-x\|^2.
+\]
+
+\section{Questions}
+1. Why does strong convexity help with linear convergence?
+2. How does proximal gradient relate to classical gradient descent?
+
+\end{document}

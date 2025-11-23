@@ -1,0 +1,22 @@
+# Fdb version 4
+["xdvipdfmx"] 1762608560.9745 "minimal_test.xdv" "minimal_test.pdf" "minimal_test" 1762608561.10784 0
+  "minimal_test.xdv" 1762608560.94953 808 4f87912806cc49150583e546d2f8b6c0 "xelatex"
+  (generated)
+  "minimal_test.pdf"
+  (rewritten before read)
+["xelatex"] 1762608560.72351 "minimal_test.tex" "minimal_test.xdv" "minimal_test" 1762608561.1077 0
+  "/etc/texmf/web2c/texmf.cnf" 1749451116 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd" 1705352648 2430 fce77d7e103eb98b6c4d486ae1d466c0 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def" 1704491087 31815 935a376385ab1feff82e3d2187c4f47a ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1749454080 10845321 de8b73c5720efafb333a9b8d690edc4a ""
+  "minimal_test.aux" 1762608560.94953 32 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "minimal_test.tex" 1762608560.63753 101 b59b8ccc68ee27c471f34aaade3bc71d ""
+  (generated)
+  "minimal_test.aux"
+  "minimal_test.log"
+  "minimal_test.xdv"
+  (rewritten before read)

@@ -1,0 +1,23 @@
+\documentclass[UTF8]{ctexart}
+\title{修复的测试文档}
+\begin{document}
+\maketitle
+
+\section{正确的数学公式}
+这是一个修复后的测试文档。
+
+\subsection{数学公式测试}
+正确的公式: $\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$
+
+\subsection{中文与数学分离}
+中文文本和数学公式应该分开编写。
+例如：积分公式 $\int_a^b f(x)dx$ 表示函数在区间上的积分。
+
+\section{列表测试}
+\begin{itemize}
+\item 第一项：数学公式 $E = mc^2$
+\item 第二项：另一个公式 $\sum_{i=1}^n i = \frac{n(n+1)}{2}$
+\item 第三项：希腊字母 $\alpha, \beta, \gamma$
+\end{itemize}
+
+\end{document}
